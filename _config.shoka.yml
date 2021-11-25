@@ -1,0 +1,24 @@
+statics: / #//cdn.jsdelivr.net/gh/chengliting/chengliting.github.io@latest/
+# 是否显示页面加载动画 loading-cat
+loader:
+  start: true # 当初次打开页面时，显示加载动画
+  switch: true # tab 切换到其他页面时，显示加载动画
+  # project of https://www.iconfont.cn/
+# //at.alicdn.com/t/font_1832207_c8i9n1ulxlt.css => 1832207_c8i9n1ulxlt
+iconfont: '1832207_c8i9n1ulxlt'
+menu:
+  home: / || home
+  about: /about/ || user
+  posts:
+    default: / || feather
+    archives: /archives/ || list-alt
+    categories: /categories/ || th
+    tags: /tags/ || tags
+
+social:
+  github: https://github.com/yourname || github || "#191717"
+  twitter: https://twitter.com/yourname || twitter || "#00aff0"
+  zhihu: https://www.zhihu.com/people/yourname || zhihu || "#1e88e5"
+  music: https://music.163.com/#/user/home?id=yourid || cloud-music || "#e60026"
+  weibo: https://weibo.com/yourname || weibo || "#ea716e"
+  about: https://about.me/yourname || address-card || "#3b5998"

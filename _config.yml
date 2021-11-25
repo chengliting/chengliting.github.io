@@ -3,13 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: bolog-chengliting
+subtitle: 一个专注睡觉的废物
+description: 涉猎的主要编程语言为 JavaScript,vue,react,flutter,python，领域涵盖H5开发、pc端网页开发、App开发和爬虫等。
+keywords: '前端, JavaScript, vue, react'
+author: chengliting
+language: zh-CN
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -43,6 +42,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+
 highlight:
   enable: true
   line_number: true
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: shoka
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
